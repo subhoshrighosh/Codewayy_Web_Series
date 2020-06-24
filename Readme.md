@@ -19,7 +19,7 @@ pursuing my bachelors from *ASANSOL ENGINEERING COLLEGE* .
 ### This task contains :
 
 	1) Introduction
-	2) Image Tad
+	2) Image Tag
 	3) Hobbies and other Stuffs
 	4) Form
 	5) Marks Table
